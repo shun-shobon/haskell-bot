@@ -21,6 +21,8 @@ description:         Haskell練習用Botです。
 
 dependencies:
   - base >= 4.7 && < 5
+  - text
+  - discord-haskell
 
 library:
   source-dirs: src
